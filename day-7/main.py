@@ -1,4 +1,3 @@
-import os
 from art import stages, logo
 from words import word_list
 from utils import chose_word, check_if_completed, is_guessed, update_board, check_guess
