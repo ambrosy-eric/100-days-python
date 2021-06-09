@@ -8,3 +8,4 @@
 - [password generator](day-5/main.py) (insecure/bad)
 - [Escape maze](day-6/main.py)
 - [hangman](day-7/main.py)
+- [Ceasar Cipher](day-8/main.py)
