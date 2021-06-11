@@ -10,3 +10,4 @@
 - [hangman](day-7/main.py)
 - [Ceasar Cipher](day-8/main.py)
 - [Blind/Silent Auction](day-9/main.py)
+- [Simple Text Calculator](day-10/main.py)
