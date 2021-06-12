@@ -11,3 +11,4 @@
 - [Ceasar Cipher](day-8/main.py)
 - [Blind/Silent Auction](day-9/main.py)
 - [Simple Text Calculator](day-10/main.py)
+- [Simple Blackjack](day-11/main.py)
