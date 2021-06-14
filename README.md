@@ -13,3 +13,4 @@
 - [Simple Text Calculator](day-10/main.py)
 - [Simple Blackjack](day-11/main.py)
 - [Number Guessing Game](day-12/main.py)
+- No day 13 output. Debugging "pratice"
