@@ -14,3 +14,4 @@
 - [Simple Blackjack](day-11/main.py)
 - [Number Guessing Game](day-12/main.py)
 - No day 13 output. Debugging "pratice"
+- [Higher Lower Game](day-14/main.py)
