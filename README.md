@@ -15,3 +15,4 @@
 - [Number Guessing Game](day-12/main.py)
 - No day 13 output. Debugging "pratice"
 - [Higher Lower Game](day-14/main.py)
+- [Coffee Machine](day-15/main.py) (classless)
