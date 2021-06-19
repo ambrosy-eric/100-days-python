@@ -18,3 +18,4 @@
 - [Coffee Machine](day-15/main.py) (classless)
 - [Coffee Machine](day-16/main.py) (OOP)
 - [True/False Quiz](day-17/main.py)
+- [Dot Art](day-18/main.py)
