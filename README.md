@@ -19,3 +19,4 @@
 - [Coffee Machine](day-16/main.py) (OOP)
 - [True/False Quiz](day-17/main.py)
 - [Dot Art](day-18/main.py)
+- [Turtle Race](day-19/main.py)
