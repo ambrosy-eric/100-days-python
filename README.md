@@ -24,3 +24,4 @@
 - [Snake Game - finalized](day-21/main.py)
 - [Pong](day-22/)
 - [Turtle Crossing Game](day-23/)
+- [Text Merge Script](day-24/)
