@@ -34,12 +34,12 @@ def main():
             score.increase_score()
 
         if snake.at_wall():
-            score.game_over()
-            game_on = False
+            score.reset_score()
+            snake.reset_snake()
 
         if snake.collision():
-            score.game_over()
-            game_on = False
+            score.reset_score()
+            snake.reset_snake()
 
     screen.exitonclick()
 
