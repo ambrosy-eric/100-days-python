@@ -25,3 +25,4 @@
 - [Pong](day-22/)
 - [Turtle Crossing Game](day-23/)
 - [Text Merge Script](day-24/)
+- [Guess US states](day-25/)
