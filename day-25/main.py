@@ -20,10 +20,7 @@ def main():
         answer = screen.textinput(title=f'{len(guessed_states)}/50 States Correct', prompt='Guess a state').lower()
         
         if answer == 'exit':
-            missing_states = []
-            for state in state_list:
-                if state not in guessed_states:
-                    missing_states.append(state)
+            missing_states = [state for state in state_list if state.capitalize() not in guessed_states]
             df = pd.DataFrame(missing_states)
             df.to_csv('data/states_missed.csv')
             break
