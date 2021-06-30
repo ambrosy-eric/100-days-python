@@ -13,7 +13,7 @@
 - [Simple Text Calculator](/day1_to_day14/day-10/)
 - [Simple Blackjack](/day1_to_day14/day-11/)
 - [Number Guessing Game](/day1_to_day14/day-12/)
-- No day 13 output. Debugging "pratice"
+- No day 13 output. Debugging "practice"
 - [Higher Lower Game](/day1_to_day14/day-14/)
 - [Coffee Machine](day-15/main.py) (classless)
 - [Coffee Machine](day-16/main.py) (OOP)
