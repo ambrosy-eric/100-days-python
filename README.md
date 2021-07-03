@@ -30,3 +30,4 @@
 - [Unit Converter - GUI](day-27/)
 - [Pomodoro App](day-28/)
 - [Insecure GUI Password Generator](day-29/)
+- [Insecure GUI Password Generator](day-30/)
