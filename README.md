@@ -32,3 +32,4 @@
 - [Insecure GUI Password Generator](day-29/)
 - [Insecure GUI Password Generator](day-30/)
 - [Flash Card Game](day-31/) (WIP)
+- [Happy Birthday Email](day-32/)
