@@ -22,5 +22,7 @@ def main():
     if birthday:
         send_email(connection, my_address, birthday[0], 'Happy Birthday', birthday[1])
 
+    connection.close()
+
 if __name__ == '__main__':
     main()
