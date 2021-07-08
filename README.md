@@ -34,3 +34,4 @@
 - [Flash Card Game](/day15_to_day31/day-31/) (WIP)
 - [Happy Birthday Email](day-32/)
 - [International Space Station Tracker](day-33/)
+- [Quiz App](day-34/)
