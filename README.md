@@ -36,3 +36,4 @@
 - [International Space Station Tracker](day-33/)
 - [Quiz App](day-34/)
 - [Rain SMS Alert](day-35/)
+- [Stock Monitoring App](day-36/)
