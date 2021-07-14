@@ -38,3 +38,4 @@
 - [Rain SMS Alert](day-35/)
 - [Stock Monitoring App](day-36/)
 - [Habit Tracker](day-37/)
+- [GSheet Exercise Tracking](day-38/)
