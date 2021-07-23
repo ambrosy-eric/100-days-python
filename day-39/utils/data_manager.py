@@ -8,8 +8,6 @@ class DataManager:
     def __init__(self, token):
         self.token = token
         self.url = os.environ.get('SHEETY_URL')
-        # self.date = self.get_date()[0]
-        # self.time = self.get_date()[1]
         self.headers = {'Authorization': f'Bearer {token}'}
         self.destination_data = {}
 
@@ -33,19 +31,3 @@ class DataManager:
             }
         }
         response = requests.put(url=edit_url, json=body, headers=self.headers)
-
-    def post_to_sheet(self, data):
-        """
-        Given some json data
-        Post to the url
-        """
-        body = {
-            'workout': {
-                'date': self.date,
-                'time': self.time,
-                'exercise': data['exercise'].title(),
-                'duration': data['duration'],
-                'calories': data['calories']
-            }
-        }
-        response = requests.post(self.url, headers=self.headers, json=body)
