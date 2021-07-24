@@ -41,3 +41,4 @@
 - [GSheet Exercise Tracking](day-38/)
 - [Airfare Price Tracking](day-39/)
 - [Airfare Price Tracking - External users](day-40/)
+- [CV HTML Site](day-41/)
