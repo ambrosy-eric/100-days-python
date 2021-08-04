@@ -43,3 +43,4 @@
 - [Airfare Price Tracking - External users](day-40/)
 - [CV HTML Site](day-41/)
 - [CV HTML Site](day-42/)
+- [CV Site with CSS](day-43/)
