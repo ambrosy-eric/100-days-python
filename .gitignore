@@ -4,4 +4,5 @@ __pycache__/*
 *cpython*
 .Python
 .venv
+.cache
 scratch.py
