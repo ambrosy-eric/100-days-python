@@ -46,3 +46,4 @@
 - [CV Site with basic CSS](day-43/)
 - [CV Site with 'intermediate' CSS](day-44/)
 - [Top 100 Spotify Playlist Creator](day-46/)
+- [Amazon Price Tracker](day-47/)
